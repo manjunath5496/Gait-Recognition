@@ -26,5 +26,28 @@ Representation Transformation with Capsules</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(13).pdf" style="text-decoration:none;">WildGait: Learning Gait Representations from Raw Surveillance Streams</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(14).pdf" style="text-decoration:none;">Gait Recognition via Semi-supervised Disentangled Representation Learning to Identity and Covariate Features</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(15).pdf" style="text-decoration:none;">Gait Recognition Using Image Self-Similarity</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(16).pdf" style="text-decoration:none;">Biometric Gait Recognition</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(17).pdf" style="text-decoration:none;">Human Gait Recognition</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(18).pdf" style="text-decoration:none;">Gait Recognition by Deformable Registration</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(19).pdf" style="text-decoration:none;">Exploratory Factor Analysis of Gait Recognition</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(20).pdf" style="text-decoration:none;">Gait recognition using a few gait frames</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(21).pdf" style="text-decoration:none;">Silhouette Analysis-Based Gait Recognition
+for Human Identification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gait-Recognition/blob/master/g(22).pdf" style="text-decoration:none;">GaitPart: Temporal Part-based Model for Gait Recognition</a></li>
+  
+  
+  
+  
+  
+  
                               
 </ul>
